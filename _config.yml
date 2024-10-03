@@ -3,4 +3,14 @@ layout: post
 theme: jekyll-theme-minimal
 title: Luke Johnsen
 description: demonstrating my python ability through sample code
+lsi: false
+safe: true
+source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 ---
