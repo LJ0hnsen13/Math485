@@ -1,6 +1,5 @@
-Homework 2: 
-
-[Uploading Homework_{
+Homework 2:
+{
  "cells": [
   {
    "cell_type": "code",
@@ -607,4 +606,3 @@ Homework 2:
  "nbformat": 4,
  "nbformat_minor": 5
 }
-2.ipynb…]()
